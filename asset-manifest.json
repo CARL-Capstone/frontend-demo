@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend-demo/static/css/main.a4f8f7b9.chunk.css",
-    "main.js": "/frontend-demo/static/js/main.1c8a9a5c.chunk.js",
-    "main.js.map": "/frontend-demo/static/js/main.1c8a9a5c.chunk.js.map",
+    "main.js": "/frontend-demo/static/js/main.bb7d64fd.chunk.js",
+    "main.js.map": "/frontend-demo/static/js/main.bb7d64fd.chunk.js.map",
     "runtime-main.js": "/frontend-demo/static/js/runtime-main.0af27897.js",
     "runtime-main.js.map": "/frontend-demo/static/js/runtime-main.0af27897.js.map",
     "static/css/2.5029530a.chunk.css": "/frontend-demo/static/css/2.5029530a.chunk.css",
@@ -27,7 +27,7 @@
     "static/media/frontface.7ecf0644.frag": "/frontend-demo/static/media/frontface.7ecf0644.frag",
     "static/media/interpolation.ae2f2bf4.vert": "/frontend-demo/static/media/interpolation.ae2f2bf4.vert",
     "static/media/interpolation.b65fb94f.frag": "/frontend-demo/static/media/interpolation.b65fb94f.frag",
-    "static/media/module4demoSubset_fake.nii.54cf1c8b.gz": "/frontend-demo/static/media/module4demoSubset_fake.nii.54cf1c8b.gz",
+    "static/media/module4demoSubset.nii.3164307a.gz": "/frontend-demo/static/media/module4demoSubset.nii.3164307a.gz",
     "static/media/rendertotexture.1f755ade.frag": "/frontend-demo/static/media/rendertotexture.1f755ade.frag",
     "static/media/rendertotexture.b51229d9.vert": "/frontend-demo/static/media/rendertotexture.b51229d9.vert",
     "static/media/volumerender.00647b63.frag": "/frontend-demo/static/media/volumerender.00647b63.frag",
@@ -38,6 +38,6 @@
     "static/css/2.5029530a.chunk.css",
     "static/js/2.8c330410.chunk.js",
     "static/css/main.a4f8f7b9.chunk.css",
-    "static/js/main.1c8a9a5c.chunk.js"
+    "static/js/main.bb7d64fd.chunk.js"
   ]
 }
